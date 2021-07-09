@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CatLikeCoding.1435941251.00" t="ExcludeRecursive" />
+    <e p="C:\Vuduydu\CodingSpace\Test\CatLikeCoding" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Game.cs" t="Include" />
+          <e p="GameDataReader.cs" t="Include" />
+          <e p="GameDataWriter.cs" t="Include" />
+          <e p="PersistableObject.cs" t="Include" />
+          <e p="PersistentStorage.cs" t="Include" />
+          <e p="Shape.cs" t="Include" />
+          <e p="ShapeFactory.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CatLikeCoding.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Sieunguoimay.CustomRP.csproj" t="IncludeRecursive" />
+      <e p="Sieunguoimay.CustomRP.Editor.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Vuduydu\CodingSpace\Test\GameProject2018-Unity\GameProject2018\Packages\com.sieunguoimay.customrp" t="Include">
+      <e p="Editor" t="Include">
+        <e p="CustomLightEditor.cs" t="Include" />
+        <e p="CustomShaderGUI.cs" t="Include" />
+        <e p="Sieunguoimay.CustomRP.Editor.asmdef" t="Include" />
+      </e>
+      <e p="Runtime" t="Include">
+        <e p="CameraBufferSettings.cs" t="Include" />
+        <e p="CameraSettings.cs" t="Include" />
+        <e p="CustomRenderPipeline.cs" t="Include" />
+        <e p="CustomRenderPipeline.Editor.cs" t="Include" />
+        <e p="CustomRenderPipelineAsset.cs" t="Include" />
+        <e p="CustomRenderPipelineCamera.cs" t="Include" />
+        <e p="Lighting.cs" t="Include" />
+        <e p="PostFXSettings.cs" t="Include" />
+        <e p="PostFXStack.cs" t="Include" />
+        <e p="PostFXStack.Editor.cs" t="Include" />
+        <e p="Shadows.cs" t="Include" />
+        <e p="ShadowSettings.cs" t="Include" />
+      </e>
+      <e p="ShaderLibrary" t="Include">
+        <e p="BRDF.hlsl" t="Include" />
+        <e p="Common.hlsl" t="Include" />
+        <e p="Fragment.hlsl" t="Include" />
+        <e p="GI.hlsl" t="Include" />
+        <e p="Light.hlsl" t="Include" />
+        <e p="Lighting.hlsl" t="Include" />
+        <e p="Shadows.hlsl" t="Include" />
+        <e p="Surface.hlsl" t="Include" />
+        <e p="ThirdParty" t="Include">
+          <e p="ACES.hlsl" t="Include" />
+          <e p="Colors.hlsl" t="Include" />
+          <e p="ShadowSamplingTent.hlsl" t="Include" />
+        </e>
+        <e p="UnityInput.hlsl" t="Include" />
+      </e>
+      <e p="Shaders" t="Include">
+        <e p="CameraRenderer.shader" t="Include" />
+        <e p="CameraRendererPasses.hlsl" t="Include" />
+        <e p="FXAAPass.hlsl" t="Include" />
+        <e p="Lit.shader" t="Include" />
+        <e p="LitInput.hlsl" t="Include" />
+        <e p="LitPass.hlsl" t="Include" />
+        <e p="MetaPass.hlsl" t="Include" />
+        <e p="PostFXStack.shader" t="Include" />
+        <e p="PostFXStackPass.hlsl" t="Include" />
+        <e p="ShadowCasterPass.hlsl" t="Include" />
+        <e p="Unlit.shader" t="Include" />
+        <e p="UnlitInput.hlsl" t="Include" />
+        <e p="UnlitParticles.shader" t="Include" />
+        <e p="UnlitPass.hlsl" t="Include" />
+      </e>
+      <e p="Sieunguoimay.CustomRP.asmdef" t="Include" />
+    </e>
+  </component>
+</project>
