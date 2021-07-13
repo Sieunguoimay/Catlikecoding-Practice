@@ -15,6 +15,7 @@
       <Path>../GameProject2018-Unity/GameProject2018/Packages/com.sieunguoimay.customrp</Path>
     </explicitIncludes>
     <explicitExcludes>
+      <Path>.git</Path>
       <Path>.idea</Path>
       <Path>Library</Path>
       <Path>Logs</Path>

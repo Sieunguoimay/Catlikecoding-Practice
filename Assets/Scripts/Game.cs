@@ -42,7 +42,7 @@ public class Game : PersistableObject
     {
         foreach (var o in objects)
         {
-            Destroy(o.gameObject);
+            shapeFactory.Reclaim(o);
         }
 
         objects.Clear();
@@ -50,7 +50,7 @@ public class Game : PersistableObject
 
     private void CreateObject()
     {
-        var o =shapeFactory.GetRandom();
+        var o = shapeFactory.GetRandom();
         var t = o.transform;
         t.localPosition = UnityEngine.Random.insideUnitSphere * 5f;
         t.localRotation = UnityEngine.Random.rotation;
